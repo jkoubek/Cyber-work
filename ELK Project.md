@@ -88,7 +88,7 @@ Linux
 Access Policies
 The machines on the internal network are not exposed to the public Internet.
 Only the whitelisted IP Virtual machine can accept connections from the Internet. Access to this machine is only allowed from the following IP addresses:
-My IP: 72.83.186.100
+My IP: (Home IP Address)
 Elk IP: 104.46.111.63
 Machines within the network can only be accessed by SSH
 Jumpbox Virtual Machine: 10.0.0.4
