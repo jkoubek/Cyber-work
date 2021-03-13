@@ -2,7 +2,7 @@
 
 The files in this repository were used to configure the network depicted below.
 
-![My Virtual Network](jkoubek/Cyber-work/Diagrams/Virtual_Network_Diagram.PNG)
+![My Virtual Network](Diagrams/Virtual_Network_Diagram.PNG)
 
 
 https://go.gliffy.com/go/publish/13443807
